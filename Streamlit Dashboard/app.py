@@ -1,7 +1,7 @@
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-
+# streamlit run app.py
 st.set_page_config(
     page_title="Dashboard Analítico - Gerencia de Contenidos", layout="wide"
 )
