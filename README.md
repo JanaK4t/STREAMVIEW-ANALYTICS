@@ -25,4 +25,16 @@ Para visualizar los módulos desarrollados en código (Streamlit y D3.js), sigue
 ```bash
 git clone https://github.com/JanaK4t/STREAMVIEW-ANALYTICS.git
 cd STREAMVIEW-ANALYTICS
+```
+### 2. Ejecutar el Módulo Analítico (Streamlit)
+Asegúrate de tener Python instalado y ejecuta:
+```bash
+# Instalar dependencias
+pip install -r requirements.txt
 
+# Levantar el servidor de Streamlit
+streamlit run app.py
+```
+
+# Levantar servidor HTTP con Python
+python -m http.server 8000
