@@ -21,3 +21,8 @@ Desarrollar herramientas de inteligencia de negocios adaptadas a diferentes audi
 Para visualizar los módulos desarrollados en código (Streamlit y D3.js), sigue estas instrucciones:
 
 ### 1. Clonar el repositorio
+
+```bash
+git clone https://github.com/JanaK4t/STREAMVIEW-ANALYTICS.git
+cd STREAMVIEW-ANALYTICS
+
